@@ -130,12 +130,3 @@ This project demonstrates:
 * Organized backend architecture
 
 ---
-
-## 👨‍💻 Author
-
-**Shishir Reddy**
-GitHub: https://github.com/shishir6300
-
----
-
-⭐ This project is developed for backend evaluation and demonstrates practical Python development skills.
